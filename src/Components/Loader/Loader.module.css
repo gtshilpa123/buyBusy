@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 .loaderContainer {
     height: 80vh;
     display: flex;
     justify-content: center;
     align-items: center;
   }
+=======
+.loaderContainer {
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+>>>>>>> 4bcf3cd2732eaf55269eed1c97e7a759b5d408a3
   
